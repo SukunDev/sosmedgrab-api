@@ -1,6 +1,6 @@
 # SosMedGrab API
 
-**SosMedGrab API** adalah Rest api untuk grab informasi dari berbagai sosial media seperti **Instagram**, **TikTok** dan **Youtube**.
+**SosMedGrab API** adalah Rest api untuk grab informasi dari berbagai sosial media seperti **Instagram** (available), **TikTok** (not available) dan **Youtube** (not available).
 
 ---
 
